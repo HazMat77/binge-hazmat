@@ -1,0 +1,8 @@
+{
+  "versionCode": 187,
+  "versionName": "1.16.114",
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.114-universal.apk",
+  "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.114-arm64.apk",
+  "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.114-arm32.apk",
+  "releaseNotes": "Binge Hazmat 1.16.114 - first release."
+}
