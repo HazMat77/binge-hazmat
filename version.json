@@ -1,8 +1,8 @@
 {
-  "versionCode": 193,
-  "versionName": "1.16.120",
-  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.120-universal.apk",
-  "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.120-arm64.apk",
-  "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.120-arm32.apk",
-  "releaseNotes": "Binge Hazmat 1.16.115 - Sports lists show today's games in the morning, free sources for TV episodes work again, and every screen says Binge Hazmat."
+  "versionCode": 198,
+  "versionName": "1.16.125",
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.125-universal.apk",
+  "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.125-arm64.apk",
+  "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.125-arm32.apk",
+  "releaseNotes": "Binge Hazmat 1.16.125 - Binge Movies and Binge TV open titles the way a dedicated IPTV player does so they play, Live TV is removed, and a provider with a very large list no longer closes the app."
 }
