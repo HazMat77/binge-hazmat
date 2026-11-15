@@ -1,8 +1,8 @@
 {
-  "versionCode": 190,
-  "versionName": "1.16.117",
-  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.117-universal.apk",
-  "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.117-arm64.apk",
-  "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.117-arm32.apk",
+  "versionCode": 191,
+  "versionName": "1.16.118",
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.118-universal.apk",
+  "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.118-arm64.apk",
+  "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.118-arm32.apk",
   "releaseNotes": "Binge Hazmat 1.16.115 - Sports lists show today's games in the morning, free sources for TV episodes work again, and every screen says Binge Hazmat."
 }
