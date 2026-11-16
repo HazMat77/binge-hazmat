@@ -1,8 +1,8 @@
 {
-  "versionCode": 202,
-  "versionName": "1.16.129",
-  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.129-universal.apk",
-  "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.129-arm64.apk",
-  "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.129-arm32.apk",
-  "releaseNotes": "Binge Hazmat 1.16.129 - Smoother 4K: a burst of dropped frames when a stream starts no longer shuts the hardware decoder out for good, so 4K titles stay on the hardware decoder instead of falling back to a slow software one. IPTV titles that were missing for some providers are found again, and your IPTV provider is listed first on a title page."
+  "versionCode": 205,
+  "versionName": "1.16.132",
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.132-universal.apk",
+  "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.132-arm64.apk",
+  "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.132-arm32.apk",
+  "releaseNotes": "Binge Hazmat 1.16.132 - New: Holiday layout (Settings > Layout): the Rows layout in Christmas colours, with falling snow, a string of lights and a festive name. New: the JAV menu has fourteen more sites, grouped as English / Translated to English / Previews, with English titles, thumbnails and descriptions. New: link Put.io and LinkSnappy under Settings > Premium Services; they are used for torrents (and LinkSnappy for hoster links). New: a film or episode that comes out today can be picked the same day: free sources list what they have straight away and torrents are listed only when your debrid service has them cached. Fixed: DaddyLive channels play again (12 of 12 tried, in about 4 seconds), and a game with many DaddyLive channels no longer waits 40 seconds for the slow ones."
 }
