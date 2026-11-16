@@ -1,8 +1,8 @@
 {
-  "versionCode": 201,
-  "versionName": "1.16.128",
-  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.128-universal.apk",
-  "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.128-arm64.apk",
-  "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.128-arm32.apk",
-  "releaseNotes": "Binge Hazmat 1.16.128 - Cast to several rooms at once; the player cast card shows the people in that episode; actor pages show how many episodes of a show the actor is in, with seasons and episode numbers; Quiet mode; a prompt to switch a source that keeps buffering; the titles you are about to play are searched ahead of time; faster give-up on slow sites."
+  "versionCode": 202,
+  "versionName": "1.16.129",
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.129-universal.apk",
+  "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.129-arm64.apk",
+  "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.129-arm32.apk",
+  "releaseNotes": "Binge Hazmat 1.16.129 - Smoother 4K: a burst of dropped frames when a stream starts no longer shuts the hardware decoder out for good, so 4K titles stay on the hardware decoder instead of falling back to a slow software one. IPTV titles that were missing for some providers are found again, and your IPTV provider is listed first on a title page."
 }
