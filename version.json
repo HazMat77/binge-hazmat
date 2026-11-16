@@ -1,8 +1,8 @@
 {
-  "versionCode": 199,
-  "versionName": "1.16.126",
-  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.126-universal.apk",
-  "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.126-arm64.apk",
-  "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.126-arm32.apk",
-  "releaseNotes": "Binge Hazmat 1.16.126 - a new free source (Vidrift), Binge Movies and Binge TV open titles the way a dedicated IPTV player does so they play, Live TV is removed, and a provider with a very large list no longer closes the app."
+  "versionCode": 200,
+  "versionName": "1.16.127",
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.127-universal.apk",
+  "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.127-universal.apk",
+  "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.127-universal.apk",
+  "releaseNotes": "Binge Hazmat 1.16.127 - Auto play: Play starts at once without the source list, with your provider link first, then the best debrid link (debrid on) or the best free link. Turn it off in Settings > Auto play. The Downloader file now installs on every phone (some 64-bit-only phones said App not installed)."
 }
