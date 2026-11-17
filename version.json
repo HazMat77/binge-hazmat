@@ -1,8 +1,8 @@
 {
-  "versionCode": 216,
-  "versionName": "1.16.142",
-  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.142-universal.apk",
-  "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.142-arm64.apk",
-  "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.142-arm32.apk",
-  "releaseNotes": "New: CZTeam, a private tracker, can be linked in Settings > Premium Services > Private trackers with your account passkey; its releases play through TorBox only. Fixed: private-tracker releases were being cut from the source list by the faster sources and the row limit, and ones TorBox has no server free for are now queued on TorBox. Removed: the \"Before you start\" screen on first launch."
+  "versionCode": 218,
+  "versionName": "1.16.144",
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.144-universal.apk",
+  "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.144-arm64.apk",
+  "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.144-arm32.apk",
+  "releaseNotes": "New: the split screen can now put any section on a tile: Anime, the Sports menu, Replays, Radio, Adult (when it is on, with its PIN) and Fireplace, next to live channels, films, shows and today's games."
 }
