@@ -1,8 +1,8 @@
 {
-  "versionCode": 214,
-  "versionName": "1.16.140",
-  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.140-universal.apk",
-  "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.140-arm64.apk",
-  "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.140-arm32.apk",
-  "releaseNotes": "Fixed: Usenet (NZB) results now show for Premiumize and TorBox users (they were cut off behind the first 100 torrent rows) and no longer fill with par2, rar-part and soundtrack files. Fixed: adult Usenet searches find names written without spaces or with apostrophes. Fixed: the Choose stream list shows clean titles and trailer names, and a Premiumize Needs attention notice clears after pairing again. New: HappyFappy share ratio shown in Test the login. Changed: releases from private trackers (HappyFappy, BitPorn, Podzemlje) play through TorBox Pro only, so your share ratio is kept."
+  "versionCode": 216,
+  "versionName": "1.16.142",
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.142-universal.apk",
+  "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.142-arm64.apk",
+  "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.142-arm32.apk",
+  "releaseNotes": "New: CZTeam, a private tracker, can be linked in Settings > Premium Services > Private trackers with your account passkey; its releases play through TorBox only. Fixed: private-tracker releases were being cut from the source list by the faster sources and the row limit, and ones TorBox has no server free for are now queued on TorBox. Removed: the \"Before you start\" screen on first launch."
 }
