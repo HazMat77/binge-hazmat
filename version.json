@@ -1,8 +1,8 @@
 {
-  "versionCode": 211,
-  "versionName": "1.16.138",
-  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.138-universal.apk",
-  "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.138-arm64.apk",
-  "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.138-arm32.apk",
-  "releaseNotes": "New: BinTV Live, a new source of live games (NBA and football) with commentator streams. New: StreamEast 2 game pages for NBA, NFL, NHL, college and more. Improved: The Pirate Bay results now fall back to its site pages when its search service is down. Sports and live TV sources now switch to a backup address when one stops answering (DaddyLive, CDN Live, AnimeTosho)."
+  "versionCode": 212,
+  "versionName": "1.16.139",
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.139-universal.apk",
+  "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.139-arm64.apk",
+  "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.139-arm32.apk",
+  "releaseNotes": "New: NBAbite and TotalSportek game pages, new sources of NBA, NFL, NHL, soccer and cricket games that open only the working mirror links. New: Bitcq, a new magnet search index (Settings > Sources). Improved: game names with a misspelled team still match (a listing's \"Canadeins\" now finds the Canadiens game); more Pirate Bay site fallbacks and a YTS mirror."
 }
