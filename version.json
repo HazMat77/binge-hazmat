@@ -1,8 +1,8 @@
 {
-  "versionCode": 207,
-  "versionName": "1.16.134",
-  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.134-universal.apk",
-  "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.134-arm64.apk",
-  "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.134-arm32.apk",
-  "releaseNotes": "Binge Hazmat 1.16.134 - New: Fireplace in the top bar: six fireplace videos (two in 8K, two in 4K, two in 1080p) that play inside the app. New: when the player controls are on screen they also show the time on your device and the time the video will finish. Changed: trailers now play inside the app instead of opening the YouTube app, and leaving the app stops every video that is playing. Fixed: a video that loses its connection part-way (a busy Plex or file-host server, a Wi-Fi drop) or is asked to jump to a part the host will not serve now picks up again where it was, instead of stopping with a source error."
+  "versionCode": 209,
+  "versionName": "1.16.136",
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.136-universal.apk",
+  "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.136-arm64.apk",
+  "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.136-arm32.apk",
+  "releaseNotes": "Binge Hazmat 1.16.136 - Fixed: clicking Fireplace in the top bar now opens the Fireplace menu (it did nothing on Home). Fixed: a UFC card or race that is over no longer stays in the Sports widgets."
 }
