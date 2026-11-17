@@ -1,8 +1,8 @@
 {
-  "versionCode": 209,
-  "versionName": "1.16.136",
-  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.136-universal.apk",
-  "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.136-arm64.apk",
-  "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.136-arm32.apk",
-  "releaseNotes": "Binge Hazmat 1.16.136 - Fixed: clicking Fireplace in the top bar now opens the Fireplace menu (it did nothing on Home). Fixed: a UFC card or race that is over no longer stays in the Sports widgets."
+  "versionCode": 211,
+  "versionName": "1.16.138",
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.138-universal.apk",
+  "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.138-arm64.apk",
+  "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.138-arm32.apk",
+  "releaseNotes": "New: BinTV Live, a new source of live games (NBA and football) with commentator streams. New: StreamEast 2 game pages for NBA, NFL, NHL, college and more. Improved: The Pirate Bay results now fall back to its site pages when its search service is down. Sports and live TV sources now switch to a backup address when one stops answering (DaddyLive, CDN Live, AnimeTosho)."
 }
