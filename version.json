@@ -1,8 +1,8 @@
 {
-  "versionCode": 218,
-  "versionName": "1.16.144",
-  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.144-universal.apk",
-  "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.144-arm64.apk",
-  "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.144-arm32.apk",
-  "releaseNotes": "New: the split screen can now put any section on a tile: Anime, the Sports menu, Replays, Radio, Adult (when it is on, with its PIN) and Fireplace, next to live channels, films, shows and today's games."
+  "versionCode": 220,
+  "versionName": "1.16.146",
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.146-universal.apk",
+  "downloadUrlArm64": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.146-arm64.apk",
+  "downloadUrlArm32": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.146-arm32.apk",
+  "releaseNotes": "New: request a movie or TV show. In Movies or TV Shows, choose \"+ Request a Movie\" (or \"+ Request a TV Show\") at the top, type the name, pick the right title from the list with its picture and year, and the request is sent. \"One Click Requests\", next to it, lists everything that was requested: pick one and it plays by itself with the best source, no list of links. New: Settings > Internet speed test (download, upload and delay). Changed: lists of sources now show debrid links first, then IPTV, then free links. Split screen can now put any section on a tile."
 }
