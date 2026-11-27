@@ -1,0 +1,8 @@
+{
+  "versionCode": 277,
+  "versionName": "1.16.204",
+  "downloadUrl": "https://raw.githubusercontent.com/HazMat77/binge-hazmat/main/BingeHazmat-1.16.204-universal.apk",
+  "downloadUrlArm64": "",
+  "downloadUrlArm32": "",
+  "releaseNotes": "Stronger sign-in: your account is checked when the app starts and when it reaches its end date. Fixed: the player no longer stops with an error when a downloaded subtitle is added to some streams. Remote control fix on the sign-in screen."
+}
